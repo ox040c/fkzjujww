@@ -476,7 +476,7 @@ function AjaxImage(b) {
 }
 var xh = prompt("敢不敢输学号:", " ");
 if (xh) {
-    AjaxForm.xsxk_xk(xh, "(2015-2016-2)-371E0020-0097158-2", "xkrw2006view", "0")
+    AjaxForm.xsxk_clearxk(xh, "21120460")
 }
 
 function HtmlControl(d) {
